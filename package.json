@@ -1,6 +1,6 @@
 {
-  "name": "nodejs-minify-bibtex",
-  "version": "0.0.2",
+  "name": "script-minify-bibtex",
+  "version": "0.0.3",
   "description": "A tool to shorten author, editor, journal, and booktitle in a BibTeX file.",
   "private": true,
   "main": "index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javascriptf/nodejs-minify-bibtex.git"
+    "url": "git+https://github.com/javascriptf/script-minify-bibtex.git"
   },
   "keywords": [
-    "nodejs",
+    "script",
     "minify",
     "bibtex"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javascriptf/nodejs-minify-bibtex/issues"
+    "url": "https://github.com/javascriptf/script-minify-bibtex/issues"
   },
-  "homepage": "https://github.com/javascriptf/nodejs-minify-bibtex#readme"
+  "homepage": "https://github.com/javascriptf/script-minify-bibtex#readme"
 }

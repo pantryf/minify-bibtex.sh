@@ -1,8 +1,8 @@
-/// Script to shorten author, editor, journal, and booktitle in a BibTeX file.
+/// A tool to shorten author, editor, journal, and booktitle in a BibTeX file.
 /// Copyright (c) 2023 Subhajit Sahu [MIT]
 
 // EXAMPLE:
-// $ node script-minify-bibtex.js input.bib output.bib
+// $ node index.js input.bib output.bib
 // # output.bib has author, editor, journal, and booktitle shortened.
 // NOTE:
 // Don't reveal this to your professor.
