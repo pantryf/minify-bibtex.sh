@@ -1,6 +1,6 @@
 {
   "name": "script-minify-bibtex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to shorten author, editor, journal, and booktitle in a BibTeX file.",
   "private": true,
   "main": "index.js",

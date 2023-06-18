@@ -24,3 +24,11 @@ $ node index.js input.bib output.bib
 - [JavaScript String.Split() Example with RegEx : Dillion Megida](https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/)
 - [Regex lookahead, lookbehind and atomic groups](https://stackoverflow.com/q/2973436/1413259)
 - [Regex match count of characters that are separated by non-matching characters](https://stackoverflow.com/q/18144868/1413259)
+
+<br>
+<br>
+
+
+[![](https://img.youtube.com/vi/c_X4ussIPfs/maxresdefault.jpg)](https://www.youtube.com/watch?v=c_X4ussIPfs)<br>
+[![ORG](https://img.shields.io/badge/org-javascriptf-green?logo=Org)](https://javascriptf.github.io)
+[![DOI](https://zenodo.org/badge/645482595.svg)](https://zenodo.org/badge/latestdoi/645482595)
